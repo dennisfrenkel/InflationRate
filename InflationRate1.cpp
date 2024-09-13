@@ -1,9 +1,7 @@
 //
 //  main.cpp
 //  InflationRate.cpp
-//
-//  Created by Dennis Frenkel on 9/6/23.
-//
+
 #include <iostream>
 using namespace std;
 
