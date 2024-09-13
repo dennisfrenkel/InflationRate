@@ -1,9 +1,3 @@
-/* Dennis Frenkel
- * Inflation LAB 3
- * CISC 2010
- * Due Date: 18 September 2023
- */
-
 #include <iostream>
 using namespace std;
 const int MAX_RATES = 20;
